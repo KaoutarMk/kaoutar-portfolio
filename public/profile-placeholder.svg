@@ -1,0 +1,11 @@
+<svg width="900" height="1125" viewBox="0 0 900 1125" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Profile placeholder">
+  <rect width="900" height="1125" rx="64" fill="#EEEAE4"/>
+  <circle cx="700" cy="180" r="220" fill="#E9D6D0" opacity="0.75"/>
+  <circle cx="170" cy="920" r="260" fill="#D8B8AD" opacity="0.35"/>
+  <path d="M180 230H720" stroke="#252525" stroke-opacity="0.14" stroke-width="2"/>
+  <path d="M180 895H720" stroke="#252525" stroke-opacity="0.14" stroke-width="2"/>
+  <circle cx="450" cy="435" r="108" fill="#F5F2EE" stroke="#252525" stroke-opacity="0.16" stroke-width="2"/>
+  <path d="M270 760C300 625 380 575 450 575C520 575 600 625 630 760" fill="#F5F2EE" stroke="#252525" stroke-opacity="0.16" stroke-width="2"/>
+  <text x="450" y="965" text-anchor="middle" fill="#6F6A64" font-family="Inter, Arial, sans-serif" font-size="26" letter-spacing="8">REPLACE WITH PHOTO</text>
+  <text x="450" y="1015" text-anchor="middle" fill="#252525" font-family="Cormorant Garamond, Georgia, serif" font-size="58" font-weight="600">Kaoutar Machouat</text>
+</svg>
